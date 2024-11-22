@@ -1,5 +1,5 @@
 # casting-advanced
-
+```java
 class ExpertCastingExercise {
     // Exercise 1: Safe number conversion
     class SafeNumber {
